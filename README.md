@@ -1,3 +1,3 @@
 # First-time
 This is my first Git Repository
-Author - SamiUllah
+Author - SamiUllah developer
